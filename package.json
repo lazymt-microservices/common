@@ -1,5 +1,5 @@
 {
-  "name": "@lazymt/lazymt-common",
+  "name": "@lazymt-lib/common",
   "version": "1.0.4",
   "description": "shared library",
   "main": "./build/index.js",
