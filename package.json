@@ -1,6 +1,6 @@
 {
   "name": "@lazymt-lib/common",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "shared library",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -27,5 +27,13 @@
     "express": "^4.17.1",
     "express-validator": "^6.12.0",
     "jsonwebtoken": "^8.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazymt-microservices/common.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lazymt-microservices/common/issues"
+  },
+  "homepage": "https://github.com/lazymt-microservices/common#readme"
 }
