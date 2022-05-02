@@ -1,6 +1,6 @@
 {
   "name": "@lazymtlib/common",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "shared library",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
